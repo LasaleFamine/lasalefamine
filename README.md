@@ -1,4 +1,4 @@
-# @LasaleFamine     <img align="right" src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&count_private=true&hide_border=true&hide=stars&theme=dracula" alt="lasalefamine" /> 
+# @LasaleFamine     <img align="right" src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&count_private=true&hide_border=true&hide=stars" alt="lasalefamine" /> 
 
 Mostly working on web stuff, but my secret, funniest, thing to do is programming a ***microcontroller*** 🤖
 
