@@ -7,7 +7,7 @@ I have built some [useful](https://comisonews.it) [things](https://github.com/la
 Used to be a professional Kart driver 🏎
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalefamine&layout=compact&hide=php&hide_border=true" alt="lasalefamine"> 
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalefamine&layout=compact&hide=php&hide_border=true" alt="lasalefamine"--> 
  
  
 #### Follow me
