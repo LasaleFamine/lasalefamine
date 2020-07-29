@@ -11,7 +11,7 @@
 
 <p align="center" style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&theme=dracula&count_private=true&hide=stars" alt="lasalefamine" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalefamine&layout=compact&theme=dracula" alt="lasalefamine" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalefamine&layout=compact&theme=dracula&hide=php" alt="lasalefamine" /> 
 </p>
 
 <p align="center">
