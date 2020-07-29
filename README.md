@@ -9,8 +9,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&theme=dracula" alt="lasalefamine" /> 
+<p align="center" style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&theme=dracula&count_private=true&hide=stars" alt="lasalefamine" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalefamine&layout=compact&theme=dracula" alt="lasalefamine" /> 
 </p>
 
 <p align="center">
