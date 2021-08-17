@@ -9,4 +9,4 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - run: curl https://metrics.lecoq.io/lasalefamine?template=classic&config.timezone=Europe%2FRome && exit 0
+      - run: curl --silent https://metrics.lecoq.io/lasalefamine?template=classic&config.timezone=Europe%2FRome
