@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/lasalefamine?template=classic&config.timezone=Europe%2FRome)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lasalefamine)](https://github.com/LordDashMe/github-contribution-stats/)
