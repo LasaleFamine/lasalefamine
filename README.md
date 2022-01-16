@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasalefamine)](https://github.com/anuraghazra/github-readme-stats)
+## Hello, I'm Alessio
+
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=lasalefamine" /></p>
+
