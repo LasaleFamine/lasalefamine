@@ -1,2 +1,6 @@
-<div style="display:flex;width:100%;justify-content:center;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=lasalefamine&show_icons=true&count_private=true&theme=dark" /></div>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lasalefamine&theme=dark&hide_border=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lasalefamine&theme=radical&no-frame=true&no-bg=true&margin-w=4)
